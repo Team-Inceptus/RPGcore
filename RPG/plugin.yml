@@ -1,0 +1,15 @@
+name: RPGcore
+authors: [amanaran1]
+version: 0.01
+main: us.teaminceptus.RPG.Rpg
+commands:
+  elementselection:
+    description: Opens the element selection GUI
+    usage: /<command>
+  wipe:
+    description: wipes the skill specified of the player specified.
+    usage: /<command>
+  setlevel:
+    description: sets the skill level specified of the skill specified of the player specified.
+    usage: /<command>
+   
